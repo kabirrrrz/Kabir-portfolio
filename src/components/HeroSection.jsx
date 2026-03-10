@@ -8,34 +8,54 @@ export const HeroSection = () => {
     >
       <div className="container max-w-4xl mx-auto text-center z-10">
         <div className="space-y-6">
+
+          {/* Name */}
           <h1 className="text-4xl md:text-6xl font-bold tracking-tight">
-            <span className="opacity-0 animate-fade-in"> Hi, I'm</span>
-            <span className="text-primary opacity-0 animate-fade-in-delay-1">
-              {" "}
-              Pedro
+            <span className="opacity-0 animate-fade-in">Hi, I'm</span>
+
+            <span className="text-primary ml-2 opacity-0 animate-fade-in-delay-1">
+              Kabir
             </span>
+
             <span className="text-gradient ml-2 opacity-0 animate-fade-in-delay-2">
-              {" "}
-              Machado
+              Sattyani
             </span>
           </h1>
 
-          <p className="text-lg md:text-xl text-muted-foreground max-2-2xl mx-auto opacity-0 animate-fade-in-delay-3">
-            I create stellar web experiences with modern technologies.
-            Specializing in front-end development, I build interfaces that are
-            both beautiful and functional.
+          {/* Title */}
+          <h2 className="text-xl md:text-2xl font-semibold text-muted-foreground opacity-0 animate-fade-in-delay-3">
+            Software Developer | AI Integration | Cloud Computing
+          </h2>
+
+          {/* Description */}
+          <p className="text-lg md:text-xl text-muted-foreground max-w-2xl mx-auto opacity-0 animate-fade-in-delay-4">
+            I build intelligent web applications using AI, Python, and modern
+            web technologies. Passionate about creating useful tools like AI
+            meeting summarizers and accessibility-focused applications.
           </p>
 
-          <div className="pt-4 opacity-0 animate-fade-in-delay-4">
+          {/* Buttons */}
+          <div className="pt-4 flex justify-center gap-4 opacity-0 animate-fade-in-delay-4">
+
             <a href="#projects" className="cosmic-button">
               View My Work
             </a>
+
+            <a
+              href="/Kabir_Sattyani_Resume.pdf"
+              target="_blank"
+              className="border border-primary px-6 py-3 rounded-lg hover:bg-primary hover:text-white transition"
+            >
+              Download Resume
+            </a>
+
           </div>
         </div>
       </div>
 
+      {/* Scroll indicator */}
       <div className="absolute bottom-8 left-1/2 transform -translate-x-1/2 flex flex-col items-center animate-bounce">
-        <span className="text-sm text-muted-foreground mb-2"> Scroll </span>
+        <span className="text-sm text-muted-foreground mb-2">Scroll</span>
         <ArrowDown className="h-5 w-5 text-primary" />
       </div>
     </section>

@@ -1,133 +1,213 @@
-# Build a Modern Portfolio Website with React & TailwindCSS
+# 🌐 Kabir Sattyani — Developer Portfolio
 
 <div align="center">
-  <br />
-  <a href="https://youtu.be/YOUR_VIDEO_ID" target="_blank">
-    <img src="./banner.png" alt="Portfolio Website Banner">
-  </a>
-  <br />
-  <div>
-    <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-    <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss" alt="Tailwind CSS" />
-    <img src="https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-    <img src="https://img.shields.io/badge/-Lucide Icons-FD4D4D?style=for-the-badge&logo=lucide" alt="Lucide Icons" />
-    <img src="https://img.shields.io/badge/-Radix UI-9D4EDD?style=for-the-badge&logo=data:image/svg+xml;base64..." alt="Radix UI" />
-  </div>
-  <h3 align="center">Create a Stunning Developer Portfolio with Animations, Dark Mode, and Projects Showcase</h3>
-  <div align="center">
-    Follow the full video tutorial on 
-    <a href="https://youtu.be/YOUR_VIDEO_ID" target="_blank"><b>YouTube</b></a>
-  </div>
-  <br />
+
+Modern **Developer Portfolio Website** built using **React, TailwindCSS, and Vite** to showcase my projects, skills, and certifications.
+
 </div>
 
-## 📋 Table of Contents
+---
 
-1. [Introduction](#-introduction)
-2. [Tech Stack](#-tech-stack)
-3. [Features](#-features)
-4. [Quick Start](#-quick-start)
-5. [Screenshots](#-screenshots)
-6. [Deployment](#-deployment)
+# 🚀 Introduction
+
+This repository contains my **personal portfolio website** designed to showcase my work as a **Software Developer with interest in AI integration and cloud technologies**.
+
+The portfolio highlights my projects, technical skills, certifications, and contact information.
+
+It includes:
+
+- A modern responsive UI
+- Project showcases with GitHub & live demos
+- Skills and certifications section
+- Contact form with email integration
+- Resume download option
 
 ---
 
-## 🚀 Introduction
+# 🌍 Live Website
 
-In this tutorial, you'll learn how to build a modern portfolio website using **React**, **TailwindCSS**, **Vite**, and **Lucide Icons**. From dark mode support to responsive animations and deployable project showcases, this video walks you through every step—perfect for developers looking to level up their frontend skills or apply for jobs.
+Portfolio Link
 
-🎥 Watch the full tutorial: [YouTube](https://youtu.be/YOUR_VIDEO_ID)
+```
+https://your-portfolio.vercel.app
+```
 
----
-
-## ⚙️ Tech Stack
-
-* **React** – Component-based UI development
-* **Vite** – Lightning-fast build tool
-* **TailwindCSS** – Utility-first CSS for styling
-* **Lucide Icons** – Clean and beautiful icon pack
-* **Radix UI** – Accessible component primitives
-* **TypeScript (optional)** – Type safety and tooling
-* **GitHub & Vercel** – Deployment
+*(Replace with your deployed Vercel link)*
 
 ---
 
-## ⚡️ Features
+# ⚙️ Tech Stack
 
-* 🌑 **Light/Dark Mode Toggle**
-  Save theme preference in local storage with beautiful transitions
+This project is built using modern frontend tools and libraries.
 
-* 💫 **Animated Backgrounds**
-  Stars, meteors, scroll effects, and glowing UI elements
-
-* 📱 **Responsive Navigation**
-  Desktop and mobile menus with glassmorphism
-
-* 👨‍💻 **Hero & About Sections**
-  Showcase who you are with smooth intro animations and buttons
-
-* 📊 **Skills Grid**
-  Filterable progress bars and categories with animated width
-
-* 🖼️ **Projects Showcase**
-  Display screenshots, tech stacks, and GitHub/demo links
-
-* 📩 **Contact Section**
-  Social icons + responsive contact form with toast notifications
-
-* 🚀 **One-Click Deployment**
-  Easily host your site with Vercel and GitHub
+- **React** — Component-based UI development
+- **Vite** — Fast development and build tool
+- **TailwindCSS** — Utility-first CSS framework
+- **Lucide Icons** — Modern icon library
+- **EmailJS** — Contact form email integration
+- **Vercel** — Deployment platform
 
 ---
 
-## 👌 Quick Start
+# ✨ Features
 
-### Prerequisites
+### 🎨 Modern UI Design
+Clean interface with animations and responsive layout.
 
-* [Node.js](https://nodejs.org/)
-* [Git](https://git-scm.com/)
+### 👨‍💻 Hero Section
+Introduction, role description, and resume download.
 
-### Clone and Run
+### 📖 About Section
+Information about my background, interests, and development focus.
+
+### 🧠 Skills Section
+Highlights my skills in:
+
+- Programming languages
+- Web development
+- Databases
+- Cloud technologies
+- Languages
+
+### 📜 Certifications
+Includes certifications such as:
+
+- **DevOps and Agile Methodologies — IBM**
+- **Cloud Computing — NPTEL**
+- **Full Stack Web Development — Udemy**
+
+### 🚀 Projects Showcase
+Displays my main projects with:
+
+- Live demo links
+- GitHub repositories
+- Technology stacks used
+
+### 📩 Contact Form
+Visitors can send messages directly using the contact form powered by **EmailJS**.
+
+### 📱 Responsive Design
+Optimized for desktop, tablet, and mobile devices.
+
+---
+
+# 💻 Featured Projects
+
+## VisionSpeak AI
+
+An AI-powered accessibility tool that converts text and images into speech using OCR and text-to-speech technology.
+
+### 🔗 GitHub Repository
+
+```
+https://github.com/kabirrrrz/visionspeak-ai
+```
+
+### 🌍 Live Demo
+
+```
+https://visionspeak-ai.vercel.app/
+```
+
+---
+
+## AI Meeting Summariser
+
+A web application that uses AI to summarize meeting transcripts into concise notes.
+
+### 🔗 GitHub Repository
+
+```
+https://github.com/kabirrrrz/AI-meeting-summariser
+```
+
+### 🌍 Live Demo
+
+```
+https://ai-meeting-summariser-5kyy.vercel.app/
+```
+
+---
+
+# 🛠 Installation
+
+To run this project locally:
+
+### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/react-tailwind-portfolio.git
-cd react-tailwind-portfolio
+git clone https://github.com/kabirrrrz/your-portfolio-repo.git
+```
+
+### 2️⃣ Navigate to the project directory
+
+```bash
+cd your-portfolio-repo
+```
+
+### 3️⃣ Install dependencies
+
+```bash
 npm install
+```
+
+### 4️⃣ Run the development server
+
+```bash
 npm run dev
 ```
 
-Your app will be available at: [http://localhost:5173](http://localhost:5173)
+### 5️⃣ Open in browser
+
+```
+http://localhost:5173
+```
 
 ---
 
-## 🖼️ Screenshots
+# ☁️ Deployment
 
-> 📸 Add screenshots of your Hero section, Projects grid, and Contact form here to show off your site.
+This portfolio is deployed using **Vercel**.
 
----
+Steps to deploy:
 
-## ☁️ Deployment
-
-### Deploy on Vercel
-
-1. Push your code to GitHub
-2. Go to [vercel.com](https://vercel.com)
-3. Import your repository
+1. Push the project to GitHub
+2. Go to **https://vercel.com**
+3. Import the repository
 4. Click **Deploy**
 
-Your live website will be hosted on a custom subdomain (e.g. `https://your-name.vercel.app`)
+Vercel will automatically build and deploy the website.
 
 ---
 
-## 🔗 Useful Links
+# 📬 Contact
 
-* [React Documentation](https://reactjs.org/)
-* [Tailwind CSS Docs](https://tailwindcss.com/)
-* [Lucide Icons](https://lucide.dev/)
-* [Radix UI](https://www.radix-ui.com/)
-* [Vite](https://vitejs.dev/)
-* [Vercel](https://vercel.com/)
+**Kabir Sattyani**
+
+📧 Email
+
+```
+ksattyani@gmail.com
+```
+
+🔗 LinkedIn
+
+```
+https://www.linkedin.com/in/kabir-sattyani
+```
+
+💻 GitHub
+
+```
+https://github.com/kabirrrrz
+```
 
 ---
 
-Let me know if you'd like me to generate a version with your actual GitHub repo, YouTube URL, or a banner image suggestion!
+# 📄 License
+
+This project is open-source and available under the **MIT License**.
+
+---
+
+⭐ If you like this project, feel free to star the repository!
