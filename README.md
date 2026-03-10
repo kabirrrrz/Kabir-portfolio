@@ -29,10 +29,10 @@ It includes:
 Portfolio Link
 
 ```
-https://your-portfolio.vercel.app
+https://kabir-portfolio-rdg3.vercel.app/
 ```
 
-*(Replace with your deployed Vercel link)*
+
 
 ---
 
